@@ -1,0 +1,6 @@
+[submodule "es"]
+	path = es
+	url = git://github.com/RetroFOX/nodejs-doc-es.git
+[submodule "ru"]
+	path = ru
+	url = git://github.com/kurokikaze/nodejs-docs-rus.git
